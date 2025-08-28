@@ -4,6 +4,6 @@
 
 まだ勉強中ですが、これからも色々なことに挑戦していきます！ もしよかったら、下のURLからWebページを見てみてください。
 
-https://satoru-tanaka-1977.github.io/codejump-Recipe-Diary/
+https://satoru-tanaka-1977.github.io/codejump-Wooden-Jewelry/
 
 使ったもの：HTML、CSS
